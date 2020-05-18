@@ -11,3 +11,5 @@ Area de control de cambios, donde se deben agregar los Archivos y/o Carpetas
 LOCAL REPOSITORY:
 Area de validacion de cambios, donde se registran las modificaciones realizadas dentro de nuestro proyecto. Se realiza una captura del codigo al que se le este haciendo seguimiento.
 
+Staging Area o INDEX:
+Area de cambios y commiteos
