@@ -1,0 +1,4 @@
+Branches
+
+Las ramas de Git son apuntadores que creamos a partir de un commit en comun.
+Generalmente se deben crear a partir de la rama Master, aunque podemos crearlas a partir de ramas secundarias 
